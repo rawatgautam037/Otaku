@@ -1,4 +1,4 @@
-# Ontaku
+# Otaku
 
 ## Brief About App
 
